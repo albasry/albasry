@@ -1,4 +1,4 @@
-![Front End Developer](https://github.com/albasry/albasry/blob/main/Header%2012%20My%20Blog.jpg)
+![Front End Developer](https://github.com/albasry/albasry/blob/main/personal%20Banner%201.jpg)
 
 ```javascript
 console.log("Hello World 👋");
