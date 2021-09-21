@@ -3,7 +3,7 @@
 ```javascript
 console.log("Hello World 👋");
 ```
-I'm Ibrahim Front-End Developer from Iraq, And I do content on web development for Arabic speakers in my [blog](https://ibrahimalbasri.blogspot.com/), I really enjoy learning languages and frameworks like Bootstrap and React, I also interested in Blockcain & smart contracts, You can chick out my [twitter](https://twitter.com/ibrahimalbasry) or my [Instagram](https://www.instagram.com/ibrahimalbasri/), Also you can reach me by [Email](albsree@gmail.com),
+I'm Ibrahim Front-End Developer from Iraq, And I do content on web development for Arabic speakers in my [blog](https://ibrahimalbasri.blogspot.com/), I really enjoy learning languages and frameworks like Bootstrap and React, I also interested in Blockcain & smart contracts, You can check out my [twitter](https://twitter.com/ibrahimalbasry) or my [Instagram](https://www.instagram.com/ibrahimalbasri/), Also you can reach me by [Email](albsree@gmail.com),
 
 
 
