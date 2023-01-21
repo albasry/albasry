@@ -11,7 +11,7 @@ I'm Ibrahim Front-End Developer from Iraq, I really enjoy learning languages and
   * HTML
   * CSS
   * JS
-  * React![image](https://user-images.githubusercontent.com/78179952/213881455-963fb8ef-07f0-4e20-944a-c18dbcf09db6.png)
+  * React
 
 
 <!---
