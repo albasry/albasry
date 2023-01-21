@@ -3,7 +3,7 @@
 ```javascript
 console.log("Hello World 👋");
 ```
-I'm Ibrahim Front-End Developer from Iraq, I really enjoy learning languages and frameworks like Bootstrap and React, I also interested in Blockcain & smart contracts, You can check out my [twitter](https://twitter.com/ibrahimalbasry) or my [Instagram](https://www.instagram.com/ibrahimalbasri/), Also you can reach me by [Email](albsree@gmail.com),
+I'm Ibrahim Front-End Developer from Iraq, I really enjoy learning languages and frameworks like Bootstrap and React, I also interested in Blockcain & smart contracts, You can check out my [twitter](https://twitter.com/ebrahimthe3rd) or my [Instagram](https://www.instagram.com/ebrahimthe3rd/), Also you can reach me by [Email](albsree@gmail.com),
 
 
 
@@ -11,7 +11,8 @@ I'm Ibrahim Front-End Developer from Iraq, I really enjoy learning languages and
   * HTML
   * CSS
   * JS
-  * React
+  * React![image](https://user-images.githubusercontent.com/78179952/213881455-963fb8ef-07f0-4e20-944a-c18dbcf09db6.png)
+
 
 <!---
 albasry/albasry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
