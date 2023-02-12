@@ -1,4 +1,4 @@
-![Front End Developer](https://github.com/albasry/albasry/blob/main/personal%20Banner%201.jpg)
+![Front End Developer](https://github.com/albasry/albasry/blob/main/76040151.jpg)
 
 ```python
 print('Hello World 👋')
