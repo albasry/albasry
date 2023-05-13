@@ -10,6 +10,7 @@ I'm Ibrahim Front-End Developer from Iraq, I really enjoy learning languages and
 ## Skills and experience
   * Python
   * Django
+  * SQL
   * HTML
   * CSS
   * Bootstrap
