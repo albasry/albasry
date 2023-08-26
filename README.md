@@ -3,7 +3,7 @@
 ```python
 print('Hello World 👋')
 ```
-I'm Ibrahim Front-End Developer from Iraq, I really enjoy learning languages and frameworks, I also interested in Blockcain & smart contracts, You can check out my [twitter](https://twitter.com/ebrahimthe3rd) or my [Instagram](https://www.instagram.com/ebrahimthe3rd/), Also you can reach me by [Email](albsree@gmail.com),
+Hello everyone and welcome to my profile!, I'm web Developer and SharePoint Analyst with a passion for enhancing collaboration and productivity within organizations., My passion for technology made me proficient in dealing with problem solving and programming languages: HTML & CSS, Bootstrap & Tailwind CSS, Python, Django, MySQL. I worked 4 years as an IT assistant, computer technician & more than 10 years in financial transactions field, Also you can reach me by [Email](contact@ibrahimalbasri.com),
 
 
 
