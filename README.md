@@ -1,19 +1,15 @@
 ![Front End Developer](https://github.com/albasry/albasry/blob/main/76040151.jpg)
 
-```python
-print('Hello World 👋')
-```
-Hello everyone and welcome to my profile!, I'm web Developer and SharePoint Analyst with a passion for enhancing collaboration and productivity within organizations., My passion for technology made me proficient in dealing with problem solving and programming languages: HTML & CSS, Bootstrap & Tailwind CSS, Python, Django, MySQL. I worked 4 years as an IT assistant, computer technician & more than 10 years in financial transactions field, Also you can reach me by [Email](contact@ibrahimalbasri.com),
+Hi there, welcome to my profile!, I'm full stack developer with a passion for enhancing collaboration and productivity within startups or organizations., My passion for technology made me proficient in dealing with problem solving :
 
+- programming languages : C++, Python.
+- Markup & Style sheet language : HTML & CSS, Bootstrap & Tailwind CSS.
+- frameworks and technologies : Django.
+- Databases : SQLite, MySQL,
+- SaaS : Microsoft SharePoint.
+- Productivity tools : Microsoft Tools, Google Tools.
 
-
-## Skills and experience
-  * Python
-  * Django
-  * SQL
-  * HTML
-  * CSS
-  * Bootstrap
+I worked 4 years as an IT assistant, computer technician & more than 10 years in financial transactions field.
 
 ## I speak
   * Arabic
